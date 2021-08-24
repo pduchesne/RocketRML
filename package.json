@@ -28,7 +28,7 @@
     "csvjson": "^5.1.0",
     "fontoxpath": "^3.17.1",
     "html2plaintext": "^2.1.2",
-    "jsonld": "^4.0.1",
+    "jsonld": "^5.0.1",
     "jsonpath-plus": "^5.0.4",
     "language-tags": "^1.0.5",
     "n3": "^1.8.1",
